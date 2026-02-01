@@ -16,4 +16,5 @@ Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building p
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 GitHub Stats
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujalKishore&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujalKishore&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
+
