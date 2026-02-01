@@ -15,6 +15,5 @@ Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujalKishore&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
-
+### 🔝 Top Repository
+![Top Repo](https://img.shields.io/github/stars/SujalKishore/REPO_NAME?label=⭐%20Top%20Repo&style=for-the-badge)
