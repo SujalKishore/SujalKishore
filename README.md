@@ -19,4 +19,6 @@ Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building p
 
 
 
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKishore&layout=compact&theme=dark)
 
