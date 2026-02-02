@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building practical and creative web projects. I love exploring frontend & backend tech, learning new skills, and contributing to open-source.<br>- 🔭 I’m open to collaboration  <br>- ❓ Ask me about anything related to MERN stack and related technologies  <br>- ⚡ Fun fact: I use tabs over spaces 
+Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building practical and creative web projects. I love exploring frontend & backend tech, learning new skills, and contributing to open-source.<br>- 🔭 I’m open to collaboration  <br>- ❓ Ask me about anything related to MERN stack and related technologies  <br>- ⚡ Fun fact: I use tabs over spaces. 
 
 
 ## 🌐 Socials:
