@@ -12,6 +12,16 @@ Hi there!👋 I’m Sujal Kishore,  a passionate developer focused on building p
 ![](https://nirzak-streak-stats.vercel.app/?user=SujalKishore&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalKishore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalKishore&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
